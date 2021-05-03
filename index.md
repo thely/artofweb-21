@@ -19,12 +19,10 @@ While social media dominates much of how we interact and create online, a blank 
 ## Course Objectives
 
 * Use the web page as a medium for multimedia and/or interactive storytelling
+* Exercise creativity and develop ideas in groups
 * Build pages using HTML5, CSS3, and JS
-* Understand and feel comfortable with text editors and the terminal
-* Serve your own pages with GitHub Pages + similar
-* Basic understanding of version control with git, GitHub
-* Troubleshoot issues and find solutions via Google searching
-* Learn + creatively “steal” from others using browser developer tools
+* Understand why and how to use version control with git and GitHub
+* Develop troubleshooting skills to solve inevitable problems
 
 [Link to projects page](./projects)
 
