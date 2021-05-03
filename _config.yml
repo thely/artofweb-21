@@ -1,0 +1,24 @@
+url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/aolw" # the subpath of your site, e.g. /blog
+title: "Art of the Living Web" # the name of your site, e.g. ACME Corp.
+email: becky.brown@virginia.edu
+description: >-
+  A syllabus for a course on creative web design as part of UVA's Launchpad 2021.
+
+github_username: thely
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+collections:
+  projects:
+    output: true
+    permalink: '/:collection/:path'
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
