@@ -1,5 +1,5 @@
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/aolw" # the subpath of your site, e.g. /blog
+baseurl: "/artofweb-21" # the subpath of your site, e.g. /blog
 title: "Art of the Living Web" # the name of your site, e.g. ACME Corp.
 email: becky.brown@virginia.edu
 description: >-
