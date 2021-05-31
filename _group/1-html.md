@@ -24,7 +24,8 @@ Inspect one of the "Transcript" sections on an episode.
 
 * What's the deal with the transcript body? What element is in there that you haven't seen elsewhere on this site?
 
-Round 2, if you still have time: [https://maxbittker.com/](https://maxbittker.com/)
+### Round 2 (if you have time)
+Go here: [https://maxbittker.com/](https://maxbittker.com/)
 
 * There are a *lot* of lines on this page. Where are they coming from?
 * There are several links on this page, but there are other things you can interact with as well. What are they? What tags are making them?

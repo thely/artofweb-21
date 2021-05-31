@@ -11,4 +11,4 @@ permalink: /projects
 4. [Interactive Fiction in Miniature](./4-if-mini)
 5. [Array exercises](./5-arrays)
 6. [Uncreative Writing](./6-generative)
-7. Final Project
+7. [Final Project](./7-final)
