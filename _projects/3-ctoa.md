@@ -20,7 +20,7 @@ You are free to use as many (free) resources as you want from the internet, as l
 
 **Style:**  
 * Completely different styles for all four calls
-* Looks good and as intended at an average screen width (about 1024px wide)
+* Looks good and as intended at an average screen width
 * In addition to the positioning rules you'll already be exploring, include at least one of: box-shadow, text-shadow, transform, icon fonts (see FontAwesome, below), CSS gradients
 
 **Reflection:**  

@@ -6,15 +6,11 @@ title: Very Bad 1996 Personal Webpage
 
 Before Squarespace and Wix, there were an array of free webhosts, none of which gave you any guidance as to good web design. Geocities, Lycos, and Angelfire were the most frequent, but there were (I’m sure) others that have since died. Their models were not especially economically sound, but we’ll make some really abysmal web pages in their honor.
 
-### Stage 1
+### Concept
 
 Invent a character who is ready to create their first webpage on something as rudimentary as Geocities. Who are they? What’s their name? What do they like? How old are they? Why are they making this site? Common themes: fan pages, sharing art, serial stories, tutorials, walkthroughs, small business sites. You can look at [One Terabyte of Kilobyte Age Photo Op](https://oneterabyteofkilobyteage.tumblr.com/) to look at a vast array of Geocities landing pages (many of them broken) for inspiration.
 
 Make their landing page. This should include a mix of text (with different fonts, font colors/stylings), images (static and animated), likely some autoplaying background audio, anchor links to parts of the page, and a few embeds from other sites. Go to as many extremes as you want––these pages did not often look very good. Things to think about: do they share their face? Do they have an alias? Are they good at what they do? Do they use emoticons?
-
-### Stage 2
-
-Talk to 2-3 people in class, and figure out how your characters know each other. How would they link to one another’s sites? You may need to add a page to your site to make this work.
 
 ### Requirements
 
@@ -35,6 +31,8 @@ I don’t need to be fully convinced that this character is a real person (maybe
 3. Set up GitHub Pages for your site by going to Settings -> Pages and enabling Pages. Wait 5-10 minutes, and make sure you can see/access your site by going to `https://cool-username.github.io/repo-name/project1`.
 3. Build your site in the `/project1` folder using VSCode.
 4. You should commit + push throughout the process, but when you've made your final push, send me the link via Collab.
+
+We'll go through this process in class. 
 
 ### Resources
 

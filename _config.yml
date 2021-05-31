@@ -15,6 +15,9 @@ collections:
   projects:
     output: true
     permalink: '/:collection/:path'
+  group:
+    output: true
+    permalink: '/:collection/:path'
 
 defaults:
   -
