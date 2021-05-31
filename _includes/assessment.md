@@ -48,6 +48,15 @@ I do not expect everyone in this class to be equally creative and code-savvy.
 
 Not every assignment will be to your taste. Put the effort in anyway, and learn as much as you can in the process.
 
+#### Class-Specific Plagiarism Statement
+For some assignments in this class, it is appropriate (adjective) to appropriate (verb). If you'd like to sample paragraphs from bad local news articles, get images from Unsplash, or embed existing videos from Vimeo, all these are fine. If you have to look up a JavaScript problem online to understand the reason why something is happening, that's also fine. These are examples of using other content for the purpose of artistic creation or personal education.
+
+However, I expect the projects to be *your* creations, not theirs. This means the following:
+
+* All CSS styles should be your own. You can copy sections of CSS from your previous projects if you found them useful, or use tools online that help generate individual rules (like CSS Gradient generators), but don't copy styles of components or pages wholesale from CodePen or similar.
+* Similar to the above, do not use page formatting/styling libraries like Bootstrap or Foundation.
+* All JS should be your own. It's fine to look up documentation when you're encountering a specific bug, but do not copy functions wholesale from StackOverflow or similar. Beyond defeating the purpose of the class, it is highly likely that whatever solutions you find are not specific to what you're trying to accomplish.
+
 #### Communication
 If you have questions or need to reach out, ask your questions during class over Zoom, or immediately after class if you prefer them to be private. I will respond to email within 24 hours.
 
