@@ -188,4 +188,4 @@ No lab: the first half of class is project presentations within your group. Ever
 With the remaining time, we'll briefly discuss each group's experience with the final, and then either continue with exploring various JS libraries, or we'll talk about next steps with front-end development.
 
 #### Assignment
-* Your final project is due by tomorrow, 7/16, at 11:59pm.
+* Your final project is due by tomorrow, 7/16, at 11:59pm. Grades are due on the 18th, so there isn't a ton of wiggle room!
