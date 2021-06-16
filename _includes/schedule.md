@@ -4,15 +4,15 @@ You will need one of each of these. The ones I have highlighted as "recommended"
 
 All of these resources are free.
 
-**Browser**  
+#### Browser
 * Firefox or Chrome (desktop, Firefox recommended)
 * Any browser on a/your smartphone (optional, for week 4)
 
-**Code editor**
+#### Code editor
 * [Virtual Studio Code](https://code.visualstudio.com/) (recommended)
 * [Atom](https://atom.io/)
 
-**git**  
+#### git
 On Mac:
   * Easy way with a unnecessarily large download (4GB, yikes): [install XCode from the App Store](https://apps.apple.com/us/app/xcode/id497799835?mt=12), which includes git
   * Intermediate way with much smaller download (~180MB, nice):
@@ -23,10 +23,10 @@ On Mac:
 
 On Windows: install [Git for Windows](http://git-scm.com/download/win)
 
-**GitHub**  
+#### GitHub
 You'll need to [make a Github account](https://github.com/).
 
-**Localhost Server**
+#### Localhost Server
 * [VSCode Five Server extension](https://marketplace.visualstudio.com/items?itemName=yandeu.five-server) (required, requires Virtual Studio Code)
 * On Mac: if you're familiar with the Terminal, you can run `python -m SimpleHTTPServer` or `python3 -m http.server`
 
