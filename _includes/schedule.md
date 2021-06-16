@@ -1,26 +1,37 @@
 ## Required resources
 
-You will need one of each of these. Where it applies, the ones with a ⭐ are what I'll be teaching with, so if you want your experience to be one-to-one with mine, pick the recommended options.
+You will need to install one option each from the first four, and make an account in the last one. Where it applies, the options 💙in hearts💙 are what I'll be teaching with, so if you want your experience to be one-to-one with mine, pick the recommended options.
 
 All of these resources are free.
 
-#### Browser
+#### 1. Browser
 Something to look at the internet with! Your computer comes with one, but these are easier to develop on.
 
-* ⭐ [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) ⭐
+##### Choices
+* 💙 [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) 💙
 * [Google Chrome](https://www.google.com/chrome/)
 
-#### Code editor
+#### 2. Code editor
 Editing code is unbelievably difficult in Word, and Notepad isn't much easier. Get one of these!
 
-* ⭐ [Virtual Studio Code](https://code.visualstudio.com/) ⭐
+##### Choices
+* 💙 [Virtual Studio Code](https://code.visualstudio.com/) 💙
 * [Atom](https://atom.io/)
 
-#### Source/version control
+#### 3. Localhost Server
+When you're putting together a site, you need to be able to preview constantly as you change it. This means running it locally (i.e., in a browser, but not on the internet). 
+
+##### Choices
+* 💙 [VSCode Five Server extension](https://marketplace.visualstudio.com/items?itemName=yandeu.five-server)💙: needs Virtual Studio Code installed first, press "Install" and open link in VS Code 
+* [Atom Live Server extension](https://atom.io/packages/atom-live-server-plus): needs Atom installed first, might not be updated anymore (probably don't use this)
+* On Mac: if you're familiar with the Terminal, you can run `python -m SimpleHTTPServer` or `python3 -m http.server`
+
+#### 4. Source/version control
 Websites (or any other programmed thing) often involve a number of different files (and/or editors), and keeping track of all of them as a series of stages helps a lot. It's like a more robust version of a Google Doc's History. We won't dive hard into this, but it's important as a baseline. `git` is the version control system we're using.
 
+##### Choose based on your OS:
 On Mac:
-  * Easy way with a unnecessarily large download (4GB, yikes): [install XCode from the App Store](https://apps.apple.com/us/app/xcode/id497799835?mt=12), which includes git
+  * Easy way with a unnecessarily large download (~4GB, yikes): [install XCode from the App Store](https://apps.apple.com/us/app/xcode/id497799835?mt=12), which includes git
   * Intermediate way with much smaller download (~180MB, nice):
     1. Open Terminal via Applications > Utilities > Terminal.
     2. Copy this line: `xcode-select --install`, paste it into Terminal, press Enter
@@ -29,16 +40,11 @@ On Mac:
 
 On Windows: install [Git for Windows](http://git-scm.com/download/win)
 
-#### GitHub
+#### 5. GitHub
 GitHub is a place where you can put your code online, and more easily work with collaborators. It also lets us host sites for free (like this one!).
 
+##### Account
 You'll need to [make a Github account](https://github.com/).
-
-#### Localhost Server
-When you're putting together a site on your computer, you need to be able to preview it.
-
-* ⭐ [VSCode Five Server extension](https://marketplace.visualstudio.com/items?itemName=yandeu.five-server) (needs Virtual Studio Code installed first) ⭐
-* On Mac: if you're familiar with the Terminal, you can run `python -m SimpleHTTPServer` or `python3 -m http.server`
 
 ## Schedule
 
