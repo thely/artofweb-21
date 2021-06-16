@@ -1,6 +1,6 @@
 ## Required resources
 
-You will need to install one option each from the first four, and make an account in the last one. Where it applies, the options 💙in hearts💙 are what I'll be teaching with, so if you want your experience to be one-to-one with mine, pick the recommended options.
+You will need to install something from each category, and make an account in the last one. Where it applies, the options 💙in hearts💙 are what I'll be teaching with, so if you want your experience to be one-to-one with mine, pick the recommended options.
 
 All of these resources are free.
 
@@ -41,10 +41,11 @@ On Mac:
 On Windows: install [Git for Windows](http://git-scm.com/download/win)
 
 #### 5. GitHub
-GitHub is a place where you can put your code online, and more easily work with collaborators. It also lets us host sites for free (like this one!).
+GitHub is a place where you can put your code online, and more easily work with collaborators. It also lets us host sites for free (like this one!). GitHub Desktop makes it way easier to look at and understand git.
 
-##### Account
-You'll need to [make a Github account](https://github.com/).
+##### Todo
+1. You'll first need to [make a Github account](https://github.com/).
+2. Then, install [Github Desktop](https://desktop.github.com/).
 
 ## Schedule
 
