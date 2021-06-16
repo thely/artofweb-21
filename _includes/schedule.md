@@ -5,21 +5,29 @@ You will need one of each of these. The ones I have highlighted as "recommended"
 All of these resources are free.
 
 **Browser**  
-* Firefox or Chrome required (desktop, Firefox recommended)
-* Any browser on a/your smartphone (optional)
+* Firefox or Chrome (desktop, Firefox recommended)
+* Any browser on a/your smartphone (optional, for week 4)
 
-**Code editor**  
+**Code editor**
 * [Virtual Studio Code](https://code.visualstudio.com/) (recommended)
-* [Sublime Text](https://www.sublimetext.com/)
+* [Atom](https://atom.io/)
 
-**A means of interacting with git/GitHub**  
-* Everyone: [GitHub Desktop](https://desktop.github.com/)
-* On Mac: install the XCode Command Line Tools, which includes git (required, hefty download)
-* On Windows: install git-bash (optional)
+**git**  
+* On Mac:
+  * Easy way with a unnecessarily large download (4GB, yikes): [install XCode from the App Store](https://apps.apple.com/us/app/xcode/id497799835?mt=12), which includes git
+  * Intermediate way with much smaller download (~180MB, nice):
+    1. Open Terminal via Applications > Utilities > Terminal.
+    2. Copy this line: `xcode-select --install`, paste it into Terminal, press Enter
+    3. An agreement should pop up. Press "Install," not "Xcode," and you should see it install.
+    4. [Here's an article on this process](https://mac-how-to.gadgethacks.com/how-to/install-command-line-developer-tools-without-xcode-0168115/) if you want moral support and/or screenshots.
+* On Windows: install [Git for Windows](http://git-scm.com/download/win)
 
-**Localhost server**  
-* Any platform: the [VSCode Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) (recommended, requires Virtual Studio Code)
-* On Mac: no install required – terminal command available through python
+**GitHub**
+You'll need to [make a Github account](https://github.com/).
+
+**Localhost Server**
+* [VSCode Five Server extension](https://marketplace.visualstudio.com/items?itemName=yandeu.five-server) (required, requires Virtual Studio Code)
+* On Mac: if you're familiar with the Terminal, you can run `python -m SimpleHTTPServer` or `python3 -m http.server`
 
 ## Schedule
 
