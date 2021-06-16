@@ -13,16 +13,17 @@ All of these resources are free.
 * [Atom](https://atom.io/)
 
 **git**  
-* On Mac:
+On Mac:
   * Easy way with a unnecessarily large download (4GB, yikes): [install XCode from the App Store](https://apps.apple.com/us/app/xcode/id497799835?mt=12), which includes git
   * Intermediate way with much smaller download (~180MB, nice):
     1. Open Terminal via Applications > Utilities > Terminal.
     2. Copy this line: `xcode-select --install`, paste it into Terminal, press Enter
     3. An agreement should pop up. Press "Install," not "Xcode," and you should see it install.
     4. [Here's an article on this process](https://mac-how-to.gadgethacks.com/how-to/install-command-line-developer-tools-without-xcode-0168115/) if you want moral support and/or screenshots.
-* On Windows: install [Git for Windows](http://git-scm.com/download/win)
 
-**GitHub**
+On Windows: install [Git for Windows](http://git-scm.com/download/win)
+
+**GitHub**  
 You'll need to [make a Github account](https://github.com/).
 
 **Localhost Server**
