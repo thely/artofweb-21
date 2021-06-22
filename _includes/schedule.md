@@ -74,6 +74,7 @@ GitHub is a place where you can put your code online, and more easily work with 
 How do you make a website look good, and make looking good easy to maintain?
 
 #### Lab
+* how CSS selectors work
 * container classes in HTML, difference between block and inline
 * collection of CSS rules, including: 
   * backgrounds + text styles

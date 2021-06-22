@@ -1,15 +1,15 @@
 ## HTML Energy Scavenger Hunt
 
-Round 1: [html.energy](https://html.energy/).
+### Round 1: [html.energy](https://html.energy/).
 
-### Home page
+#### Home page
 1. How is this website structured, once you get into the `body` tag?
 2. What tags do you recognize, and which ones are new? What do you think the new ones are for?
-3. There's a lot of `text="some-other-text"` in these tags. What do you think those are? When you encounter them in other tags, make note of them as well.
+3. There's a lot of attributes (`text="some-other-text"`) in these tags. What do you think those are? When you encounter them in other tags, make note of them as well.
 4. When you hover over elements in the developer tools, you see more than one color. Which colors do you see, and what do you think the colors are for?
 5. Why is the little green sun spinning?
 
-### Podcasts
+#### Podcasts
 Go to the podcasts page, and then go to one of the episodes.
 
 * How is the audio on the page? What do all the individual pieces of the tag do?
@@ -24,8 +24,7 @@ Inspect one of the "Transcript" sections on an episode.
 
 * What's the deal with the transcript body? What element is in there that you haven't seen elsewhere on this site?
 
-### Round 2 (if you have time)
-Go here: [https://maxbittker.com/](https://maxbittker.com/)
+### Round 2 (if you have time): [https://maxbittker.com/](https://maxbittker.com/)
 
 * There are a *lot* of lines on this page. Where are they coming from?
 * There are several links on this page, but there are other things you can interact with as well. What are they? What tags are making them?

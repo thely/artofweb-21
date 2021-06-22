@@ -17,8 +17,9 @@ Make their landing page. This should include a mix of text (with different fonts
 **Technical requirements:**
 
 * structural tags: html, head, body, title
-* content tags: at least three `p` tags, at least three `img` tags, at least one header tag (`h1`-`h6`), at least one `table`, at least one `iframe`
+* content tags: at least three `p` tags, at least three `img` tags, at least one header tag (`h1`-`h6`), at least one `table`, at least two other tags (`iframe`? `audio`?)
 * at least three things included from the Resources section
+* at least two pages, linked to each other with `<a>`
 
 **Artistic requirements:**
 
@@ -26,11 +27,11 @@ I don’t need to be fully convinced that this character is a real person (maybe
 
 ### Submission
 
-1. Clone the base repository from GitHub, using GitHub Desktop.
-2. Initialize a new repository on GitHub based on your local clone. Make a boilerplate "hello world!" commit to make sure you can push to your new repo.
-3. Set up GitHub Pages for your site by going to Settings -> Pages and enabling Pages. Wait 5-10 minutes, and make sure you can see/access your site by going to `https://cool-username.github.io/repo-name/project1`.
-3. Build your site in the `/project1` folder using VSCode.
-4. You should commit + push throughout the process, but when you've made your final push, send me the link via Collab.
+Using the repository we made in class, make a folder for this project, which will contain all your content (HTML files, any images, audio/video, etc).
+
+On Collab, submit the (working) link to the GitHub Pages hosted version of your site, which should look like: `https://cool-username.github.io/repo-name/project1`. I should be able to look at the site itself, *not* your HTML files at something like `https://github.com/cool-username/repo-name/blob/main/project1/index.html`.
+
+Make sure the version on GitHub actually looks the way you expect. Commit and push throughout the process to save yourself the tears!
 
 We'll go through this process in class. 
 
