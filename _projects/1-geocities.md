@@ -14,14 +14,19 @@ Make their landing page. This should include a mix of text (with different fonts
 
 ### Example pages
 
-[To see the example HTML we wrote in class (plus a few extras), click here.](/artofweb-21/examples/day1/index.html)
+#### Examples from class
+* [View the live version of the page we made in class](/artofweb-21/examples/day1/index.html)
+* You can view the code for these two pages either by right-clicking and Inspecting the page, or [go here to view the code for the index page](https://github.com/thely/artofweb-21/blob/main/examples/day1/index.html), and [here to view the code for the about page.](https://github.com/thely/artofweb-21/blob/main/examples/day1/about.html)
+* [You can view my slides from class here](/artofweb-21/slides/day-1-slides.html), just ignore everything you see that mentions git or GitHub (we're scrapping that).
 
+#### Some GeoCities "character" examples
 Here are the example Geocities sites I showed in class:
 
 * [Nefarios Darius's page on "energy"](https://web.archive.org/web/20091022123634/http://geocities.com/nefarious_darius/myenergy.html)
 * [NETWINGS site on... basic computer usage?](https://web.archive.org/web/20091027063331/http://geocities.com/netwings.geo/)
 * [Jeedsie's about page.](https://web.archive.org/web/20091027104650/http://geocities.com/jeedsie320/bio.html) Her home page is broken, but the rest of the pages seem like they still work. Her "pride" page is very sweet.
 
+#### What's the deal with this aesthetic?
 All these people were just people, making sites with the tools available to them at the time. The aesthetic wasn't great, because the tools for adding visual coherence didn't exist yet. There wasn't yet a good/easy way of adding drop shadows to elements on the page, or rounding the corners of page elements, or a reliable way of showing everyone the same font, so everything was stodgy and rectangular.
 
 If you want to see what business websites looked at the time (like Apple, Disney, Amazon, Google), here are some good articles (with pictures): 
