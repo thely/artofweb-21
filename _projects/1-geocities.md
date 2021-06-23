@@ -59,7 +59,7 @@ I don’t need to be fully convinced that this character is a real person (maybe
 
 ### Submission
 
-Make an account on Neocities to host all this live! You'll use this for all the rest of the assignments. Once you're on Neocities, do the following:
+Make an account on [Neocities](https://neocities.org/) to host all this live! You'll use this for all the rest of the assignments. Once you're on Neocities, do the following:
 
 * Click on Edit Site (or potentially Start Site)
 * Make a new folder inside of the file manager block you see, and call it `project1`.
