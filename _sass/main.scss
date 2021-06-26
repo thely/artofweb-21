@@ -127,3 +127,31 @@ ul li {
 p, li {
   line-height: 1.25;
 }
+
+div.highlight {
+  width: 100%;
+  margin: 2em 0;
+  padding: 1em 2em;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: inset 2px 2px 3px 1px rgba(0,0,0,0.25);
+  margin-left: 0;
+}
+
+pre {
+  font-size: 1.3em; 
+  white-space: pre-wrap;
+  word-break: keep-all;
+}
+
+code.language-plaintext {
+  color: #3679f9;
+  padding: 2px 5px;
+  border: 1px dashed #9fc8e1;
+  border-radius: 5px;
+  background: #d3dfc78f;
+}
+
+img {
+  max-width: 100%;
+}
