@@ -50,6 +50,6 @@ In Neocities, make a `project2` folder, and drop all your files for this project
 
 ### Examples + etc.
 
-[Here are the slides from Thursday.](/slides/day-2-css.html)
+[Here are the slides from Thursday.](/artofweb-21/slides/day-2-css.html)
 
-[Here's the site we put together with different styles.](/examples/day2/index.html) Use "Inspect" to look at the code. Remember that the `<style>` tag is in the `<head>`, and that you can always look at the center column of the Inspector window to see what styles are applied on a given element.
+[Here's the site we put together with different styles.](/artofweb-21/examples/day2/index.html) Use "Inspect" to look at the code. Remember that the `<style>` tag is in the `<head>`, and that you can always look at the center column of the Inspector window to see what styles are applied on a given element.
