@@ -25,8 +25,6 @@ While social media dominates much of how we interact and create online, a blank 
 * Understand why and how to use version control with git and GitHub
 * Develop troubleshooting skills to solve inevitable problems
 
-{% include schedule.md %}
-
 {% include assessment.md %}
 
 {% include other-details.md %}
