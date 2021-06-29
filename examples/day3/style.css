@@ -1,0 +1,32 @@
+/* These styles apply to about.html and index.html. They only affect a page if that page uses the <link> tag to get this file. */
+
+a:link {
+    color: hotpink;
+}
+a:visited {
+    color: grey;
+}
+a:hover {
+    color: yellow;
+    background: turquoise;
+    font-weight: bold;
+}
+a:active {
+    background: red;
+}
+
+h1 {
+    background: #d7d7ff;
+    font-size: 40px;
+    border: 5px solid grey;
+    padding: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#page-wrap {
+    width: 50%;
+    margin: 0 auto;
+}

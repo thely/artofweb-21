@@ -1,0 +1,30 @@
+<!-- This page is talking about the cascade. Who's overriding who? -->
+<style>
+p {
+    background-color: yellow;
+    border: 2px dashed black;
+    color: #111111;
+    font-family: Georgia, serif;
+    font-size: 16px;
+    line-height: 1.25;
+  }
+  p {
+      background-color: green;
+  }
+  
+  #content p {
+    background-color: blue;
+    border: 5px solid red;
+  }
+  
+  body #content p {
+    background-color: white;
+  }
+</style>
+
+<body>
+    <div id="content">
+        <p>I am inside of content</p>
+    </div>
+    <p>I am not inside content</p>
+</body>
