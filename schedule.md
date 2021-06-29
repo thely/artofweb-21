@@ -1,3 +1,7 @@
+## Schedule
+
+Here's all the code examples, slides, assignment descriptions, and relevant FAQ questions for the days of class we've had so far.
+
 #### Day 1: HTML
 * Code examples: [view live](./examples/day1) or [view code](https://github.com/thely/artofweb-21/tree/main/examples/day1)
 * Slides: [view slides](./slides/day-1-slides.html)
