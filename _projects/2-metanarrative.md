@@ -36,7 +36,6 @@ In the abstract, a list of news articles might look like this:
 * Pick some characteristic fonts (at least two) and colors to give a sense of mood or intention to whatever this data is. Use [Google Fonts](https://fonts.google.com) to get some nicer, free ones!
 * Make one piece of the data block do something when you hover over it.
 
-
 #### Artistic
 
 I should get the sense that you are describing whatever your subject is, and that there's a sense of change over time.
@@ -48,3 +47,5 @@ There should be enough individual parts of the data block that it's believable.
 Make a new folder in Neocities for this project, and send me the link to that page.
 
 In Collab, send me that link, plus a short reflection on what you figured out, what frustrated you, what questions you have, why you chose what you did, etc.
+
+Also, since floats can be a little difficult, and they won't look good at every browser width, you should figure out what width they look best at. [Here's how you figure that out.](/artofweb-21/questions/width)
