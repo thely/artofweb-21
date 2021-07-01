@@ -25,3 +25,11 @@ Here's all the code examples, slides, assignment descriptions, and relevant FAQ 
 * Zoom recording password: `a+60rCkV`, for 6/29
 * Relevant FAQ:
   * [How do I change the width/height of an element, or change how it's spaced?](/artofweb-21/questions/box-model) (has an example of a floated element)
+
+#### Day 4: JavaScript
+* Code examples: [view live](/artofweb-21/examples/day4) or [view code](https://github.com/thely/artofweb-21/tree/main/examples/day4)
+* Assignment: coming soon
+<!-- * Assignment: [Javascript exercises](/artofweb-21/projects/3-js-exercises) -->
+* Zoom recording password: `#@HWQy7%`, for 7/1
+* Relevant FAQ:
+  * [How do I know how wide my browser is, to figure out at what size my site looks good?](/artofweb-21/questions/width)
