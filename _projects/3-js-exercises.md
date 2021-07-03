@@ -1,3 +1,7 @@
+---
+title: Javascript Exercises
+---
+
 ## Javascript Exercises
 
 Make a site that answers/solves the following. Both sections have have some combination of HTML and Javascript.
