@@ -2,6 +2,10 @@
 
 Here's all the code examples, slides, assignment descriptions, and relevant FAQ questions for the days of class we've had so far.
 
+#### Where are the Zoom recordings?
+
+They're in Collab. Go to Online Meetings, and then go to the Cloud Recordings tab.
+
 #### Day 1: HTML
 * Code examples: [view live](/artofweb-21/examples/day1) or [view code](https://github.com/thely/artofweb-21/tree/main/examples/day1)
 * Slides: [view slides](/artofweb-21/slides/day-1-slides.html)
@@ -28,8 +32,13 @@ Here's all the code examples, slides, assignment descriptions, and relevant FAQ 
 
 #### Day 4: JavaScript
 * Code examples: [view live](/artofweb-21/examples/day4) or [view code](https://github.com/thely/artofweb-21/tree/main/examples/day4)
-* Assignment: coming soon
 * Assignment: [Javascript exercises](/artofweb-21/projects/3-js-exercises)
 * Zoom recording password: `#@HWQy7%`, for 7/1
 * Relevant FAQ:
   * [How do I know how wide my browser is, to figure out at what size my site looks good?](/artofweb-21/questions/width)
+
+#### Day 5: JavaScript, continued
+* Code examples: [view live](/artofweb-21/examples/day5) or [view code](https://github.com/thely/artofweb-21/tree/main/examples/day5)
+  * I recommend looking at/copying code from this one rather than trying to understand it by viewing it live. There's too much to look at!
+* Assignment: [Interactive Fiction in miniature](/artofweb-21/projects/4-if-mini)
+* Zoom recording password: `%5qb+gK.`, for 7/6
