@@ -42,3 +42,11 @@ They're in Collab. Go to Online Meetings, and then go to the Cloud Recordings ta
   * I recommend looking at/copying code from this one rather than trying to understand it by viewing it live. There's too much to look at!
 * Assignment: [Interactive Fiction in miniature](/artofweb-21/projects/4-if-mini)
 * Zoom recording password: `%5qb+gK.`, for 7/6
+
+#### Day 6: Layouts in CSS
+* Code examples: [view live](/artofweb-21/examples/day6) or [view code](https://github.com/thely/artofweb-21/tree/main/examples/day6)
+* Slides: [view slides](/artofweb-21/slides/day-6-slides.html)
+* Assignment: [Sell Me Something](/artofweb-21/projects/5-sell-it)
+* Zoom recording password: `X!pU&4g7`, for 7/8
+
+If you want some practice with `display: grid`, [Grid By Example](https://gridbyexample.com/examples/) is an exhaustive look at everything you can do with the property (it's a *lot*). Or, if you just want to get used to it a little more, [CSS Grid Garden](https://cssgridgarden.com/) is a pretty cute exploration of how CSS grids work.

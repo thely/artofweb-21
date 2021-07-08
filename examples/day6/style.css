@@ -1,0 +1,156 @@
+/* 
+  We're making the body of the page 3x its normal height,
+  so we can see fixed elements moving in space.
+*/
+body {
+  min-height: 300vh;
+}
+
+/* Center the body of the page */
+#content {
+  width: 50%;
+  /* margin: 40px; */
+  /* margin: top/bottom left/right */
+  margin: 0 auto;
+}
+
+/* Initial style to make sure the CSS is loading */
+h1 {
+  color: red;
+}
+
+/* 
+  Highlighting our paras so we can see how different
+  position values will affect them. 
+*/
+p {
+  background-color: limegreen;
+}
+
+/* Experimenting with position */
+.relative {
+  position: relative;
+  /* bottom: -100px; */
+  right: 0px;
+}
+
+.absolute {
+  position: absolute;
+  top: 1000px;
+  left: 300px;
+}
+
+.fixed {
+  position: fixed;
+  top: 0px; 
+  left: 0px;
+}
+
+/* 
+  Putting absolutely positioned content inside of relatively positioned content,
+  plus making background images look nicer
+*/
+.youtube {
+  background-image: url("/day6/screenshot.png");
+  background-size: cover;
+  background-position: center;
+  width: 300px;
+  height: 180px;
+  
+  position: relative;
+}
+
+.watch, .timestamp {
+  background-color: #333;
+  color: #d4d4d4;
+  position: absolute;
+  margin: 5px;
+  padding: 3px;
+}
+
+.watch {
+  top: 0px;
+  right: 0px;
+}
+
+.timestamp {
+  bottom: 0px;
+  right: 0px;
+}
+
+/* Using display: grid; to improve our Sequential Metanarrative stuff*/
+.block {
+  background-color: aliceblue;
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  grid-template-columns: repeat(5, 100px);
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 10px;
+}
+
+.block .background-image {
+  background-image: url("/day6/screenshot.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.block h1 {
+  color: black;
+  font-size: 22px;
+}
+
+/* 
+  Before we put the h1/p in a div, we specified which column the para should
+  go in, so that both the h1 and the p were in the same column   
+*/
+.block p {
+  background-color: transparent;
+  grid-column: 2;
+  font-size: 14px;
+}
+
+.block img {
+  /* grid-row: 2; */
+  max-width: 100%;
+} 
+
+/* Making a fake product list, in the style of Etsy */
+#product-list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+/* 
+  grid-column can specify just one column, or you can use it to
+  make a block span across more than one column. Or across a whole row!
+*/
+#product-list p {
+  /* syntax is: */
+  /* grid-column: starting column / span how-many-columns; */
+  grid-column: 1 / span 4;
+}
+
+#product-list .product img {
+  border-radius: 50%;
+}
+
+/* 
+  Using position: fixed; to make a navigation stick to the top, and using
+  display: grid; to space the logo far away from the navigation links
+  */
+.top-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+
+  display: grid;
+  grid-template-columns: 6fr 1fr;
+  padding: 10px;
+  background-color: limegreen;
+}
+
+.top-nav p {
+  margin: 0;
+  background-color: transparent;
+}
