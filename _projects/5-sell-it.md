@@ -30,7 +30,7 @@ You'll need to put together three parts: a navigation bar, a large splash image 
 
 #### Technical/Aesthetic
 
-To space everything well, you'll use `display: grid;` in some form for each of these.
+To space everything well, you'll use `display: grid;` in some form for most of these. (Except, probably, the splash image.)
 
 Make use of whitespace to make the site look as good as you can make it.
 
@@ -40,6 +40,6 @@ Background images shouldn't repeat. Use `contain` or `cover` to make the image f
 
 #### Images
 
-To really sell an idea, you need images. This project will likely be a bit image-heavy, but you can leverage anything in your power to get those images. This includes putting something together in [Canva](https://www.canva.com/), getting stock photos from [Unsplash](https://unsplash.com/), or even rolling the dice with a Google Image search.
+To really sell an idea, you need images. This project will likely be a bit image-heavy, but you can leverage anything in your power to get those images. This includes putting something together in [Canva](https://www.canva.com/), getting stock photos from [Unsplash](https://unsplash.com/), get some or even rolling the dice with a Google Image search.
 
 The only limitation is that, aside from the logo, **you cannot have an image with text on top of it**. If you need descriptive text, it needs to go in a tag!
