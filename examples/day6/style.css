@@ -51,7 +51,7 @@ p {
   plus making background images look nicer
 */
 .youtube {
-  background-image: url("/day6/screenshot.png");
+  background-image: url("./screenshot.png");
   background-size: cover;
   background-position: center;
   width: 300px;
@@ -89,7 +89,7 @@ p {
 }
 
 .block .background-image {
-  background-image: url("/day6/screenshot.png");
+  background-image: url("./screenshot.png");
   background-size: cover;
   background-position: center;
 }
