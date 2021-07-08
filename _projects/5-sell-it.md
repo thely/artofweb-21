@@ -1,3 +1,7 @@
+---
+title: Sell Me Something
+---
+
 ## Sell Me Something
 
 Let's make a larger site with multiple sections, based off of current homepage design trends for popular brands. Make me want to buy something from a brand of your own invention. You'll have a header with some navigation, a large splash image with some text to entice you to join/buy/subscribe, and then some more distributed content below.
