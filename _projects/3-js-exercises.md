@@ -24,7 +24,7 @@ These will all be based off of the bank account example we did in class. Make su
 
 #### Multiple meanings
 
-1. Write a paragraph's worth of text, and put at least four `<span>`s in it. Whenever you click on one of the spans, change text in another `<span>` on the paragrpah. Remember that a span can wrap any amount of text, or even break in the middle of the word.
+1. Write a paragraph's worth of text, and put at least four `<span>`s in it. Whenever you click on one of the spans, change text in another `<span>` on the paragraph. Remember that a span can wrap any amount of text, or even break in the middle of the word.
 
 2. In CSS, try setting `cursor: pointer;` on `span:hover`. Check online to see what other properties `cursor` can have, and use a few others.
 
