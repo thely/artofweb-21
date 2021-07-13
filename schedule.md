@@ -50,3 +50,12 @@ They're in Collab. Go to Online Meetings, and then go to the Cloud Recordings ta
 * Zoom recording password: `X!pU&4g7`, for 7/8
 
 If you want some practice with `display: grid`, [Grid By Example](https://gridbyexample.com/examples/) is an exhaustive look at everything you can do with the property (it's a *lot*). Or, if you just want to get used to it a little more, [CSS Grid Garden](https://cssgridgarden.com/) is a pretty cute exploration of how CSS grids work.
+
+#### Day 7: Hodgepodge
+* Code examples: [view live](/artofweb-21/examples/day7) or [view code](https://github.com/thely/artofweb-21/tree/main/examples/day7)
+* Slides: [view slides](/artofweb-21/slides/day-7-slides.html)
+* Assignment: [Final Project](/artofweb-21/projects/6-final)
+  * NOTE: This project is not due until Saturday at 11:59pm. It is not due on Thursday!
+* Zoom recording password: `$6y9FsTG`, for 7/13
+
+If you're interested, [here's the full list of things to think about with web accessibility](https://www.w3.org/WAI/fundamentals/accessibility-principles/).
