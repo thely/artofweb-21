@@ -59,3 +59,9 @@ If you want some practice with `display: grid`, [Grid By Example](https://gridby
 * Zoom recording password: `$6y9FsTG`, for 7/13
 
 If you're interested, [here's the full list of things to think about with web accessibility](https://www.w3.org/WAI/fundamentals/accessibility-principles/).
+
+#### Day 8: Other libraries
+* Code examples: [view live](/artofweb-21/examples/day8) or [view code](https://github.com/thely/artofweb-21/tree/main/examples/day8)
+* Assignment: [Final Project](/artofweb-21/projects/6-final) (still)
+  * NOTE: This project is not due until Saturday at 11:59pm. It is not due on Thursday!
+* Zoom recording password: `rr1v7B^8`, for 7/15
